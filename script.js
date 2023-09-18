@@ -339,7 +339,7 @@ the total value 316.25'
 TEST DATA: Test for bill values 275, 40 and 430
 */
 
-let bill = 275;
+let bill = 4575;
 
 
 // if((bill <= 300) && (bill >= 50)){
